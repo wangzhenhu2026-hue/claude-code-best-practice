@@ -6,7 +6,7 @@ allowedTools:
   - "Skill"
 model: sonnet
 color: green
-maxTurns: 5
+maxTurns: 8
 permissionMode: acceptEdits
 memory: project
 skills:
